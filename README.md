@@ -1,7 +1,4 @@
 # Deepfake Video Detection Using ResNeXt + LSTM
-
-This README provides a clean, structured, and practical documentation for your **Deepfake Video Detection Project**, based on your project description.
-
 ---
 
 ## 🚀 Project Overview
